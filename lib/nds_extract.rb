@@ -96,6 +96,7 @@ def movies_with_directors_set(source)
   end
   array
 end
+binding.pry
 
   # GOAL: For each director, find their :movies Array and stick it in a new Array
   #
